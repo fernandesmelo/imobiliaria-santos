@@ -49,7 +49,7 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu computador:
 ### 📦 Passo a Passo para Baixar o Projeto
 
 #### 1. Acesse o Repositório no GitHub
-- Abra o link do repositório no seu navegador: `[Insira o link do repositório aqui]`.
+- Abra o link do repositório no seu navegador: `https://github.com/fernandesmelo/imobiliaria-santos.git`.
 
 #### 2. Faça o Download do Projeto
 - Clique no botão verde **Code**.
