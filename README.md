@@ -2,7 +2,7 @@
 
 Desenvolvi este projeto como parte da Missão 06 do módulo Front-end I no curso de Programador Full Stack na DevMedia. A missão abordou os tópicos "HTML: Listas" e "CSS: Estilização através de seletores".  
 
-O projeto consiste em um site para a Imobiliária Santos, aplicando os conceitos aprendidos para criar um design funcional e atrativo.
+O projeto consiste em um site para a [Imobiliária Santos](https://fernandesmelo.github.io/imobiliaria-santos/), aplicando os conceitos aprendidos para criar um design funcional e atrativo.
 
 [screen-capture.webm](https://github.com/user-attachments/assets/a9ffe472-06f6-48f9-935f-9e3844a79022)
 
