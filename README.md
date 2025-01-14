@@ -6,9 +6,6 @@ O projeto consiste em um site para a [Imobiliária Santos](https://fernandesmelo
 
 [screen-capture.webm](https://github.com/user-attachments/assets/a9ffe472-06f6-48f9-935f-9e3844a79022)
 
-## ⚙️ Executando os Testes
-Próximos passos...
-
 ## 🛠️ Construído com
 
 <div style="display: inline-block"><br/>
@@ -86,4 +83,7 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu computador:
 ---
 
 Agora você está pronto para explorar e personalizar este projeto! 🎉
+
+## ⚙️ Executando os Testes
+Próximos passos...
 
